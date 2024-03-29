@@ -1,0 +1,9 @@
+# Ignore Node.js modules
+/server/node_modules
+/client/node_modules
+# Ignore logs
+/logs
+# Ignore build artifacts
+/build
+# Ignore environment-specific .env files
+.env
